@@ -27,9 +27,10 @@ This repository showcases my projects, dashboards, and analytical work.
 ---
 
 ### 🔹 Project 2 – Customer Analysis (SQL)
-📌 Description: SQL queries analyzing customer behavior, retention, and segmentation.  
-🛠 Tools: SQL  
-📷 Screenshot: (Coming soon)
+**Description**: Built a dynamic Power BI dashboard to monitor sales revenue, marketing spend, and team performance across months and regions. The dashboard provides executive-level KPIs and trend analysis to support strategic business decisions.  
+**Tools**: Power BI and Excel   
+**Screenshot**: <img width="1167" height="649" alt="image" src="https://github.com/user-attachments/assets/a01f5038-f82b-48bd-a516-f3db24d8a342" />
+
 
 ---
 
