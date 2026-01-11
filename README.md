@@ -19,9 +19,10 @@ This repository showcases my projects, dashboards, and analytical work.
 ## Projects
 
 ### 🔹 Project 1 – Sales Performance Dashboard (Power BI)
-📌 Description: Interactive dashboard analyzing sales trends, regional performance, and KPIs.  
-🛠 Tools: Power BI, Excel  
-📷 Screenshot: (Coming soon)
+**Description**: Developed an interactive Power BI dashboard to analyze order performance across months, product regions, categories, and order status. The dashboard enables business users to quickly identify sales trends, regional growth, and operational performance.  
+**Tools**: Power BI and SQL 
+**Screenshot**: <img width="1228" height="681" alt="image" src="https://github.com/user-attachments/assets/13d657a5-3a85-4f28-9319-55bddc21f883" />
+
 
 ---
 
